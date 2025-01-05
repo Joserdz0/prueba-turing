@@ -1,0 +1,13 @@
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-md-4 p-3 position-relative imagen-mid">
+            <img src="https://secrecyjewels.es/blog/wp-content/uploads/2022/10/esencia-de-una-persona.jpg" class="img-fluid h-100" alt="...">
+          </div>
+          <div class="col-12 col-md-4 p-3 position-relative imagen-mid">
+            <img src="https://images.ecestaticos.com/vU8sC8tLdkx-2YYh1fkOGL8vfeY=/0x0:990x557/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F62c%2Fe5d%2F314%2F62ce5d3141c0b670144a692b7f6a21fa.jpg" class="img-fluid" alt="...">
+          </div>
+          <div class="col-12 col-md-4 p-3 position-relative imagen-mid">
+            <img src="https://laboratoriosniam.com/wp-content/uploads/2018/07/michael-dam-258165-unsplash_WEB2.jpg" class="img-fluid" alt="...">
+          </div>
+        </div>
+      </div>
