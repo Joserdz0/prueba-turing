@@ -319,7 +319,7 @@ app.get("/pets/", async (req, res) => {
     if (user_id) {
       whereCondition.user_id = user_id;
     }
-
+    whereCondition.status = 1;
     // Realiza la consulta para obtener el conteo de registros y la suma de time_in_app
     const data = await Pets.findAll({
       where: whereCondition,

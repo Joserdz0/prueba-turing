@@ -1,5 +1,6 @@
 <template>
   <div class="container-fluid bg-C8D2D7">
+    <Navbar />
     <div class="row bg-0F2D3C">
       <div
         class="col-12 d-flex flex-column justify-content-center align-items-center"
@@ -347,6 +348,7 @@
   </div>
 </template>
 <script setup>
+import Navbar from "../components/Navbar.vue";
 import { ref, onMounted, reactive, computed, watch } from "vue";
 const animals = ref([]);
 const numberElements = ref(9);
